@@ -1,2 +1,2 @@
-# Datacamp-projects
-Proyectos ejecutados en la plataforma de capacitación Datacamp (https://app.datacamp.com/learn)
+# Python projects
+Proyectos ejecutados en lenguaje de programación Python
