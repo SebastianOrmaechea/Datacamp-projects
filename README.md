@@ -1,2 +1,2 @@
 # Python projects
-Proyectos ejecutados en lenguaje de programación Python
+Se trata de proyectos de entrenamiento ejecutados en la plataforma DataCamp
